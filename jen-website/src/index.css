@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* src/App.css */
+.app {
+  background-color: #2ea1ed;
+  color: #2d4832;
+  min-height: 100vh;
+  font-family: system-ui, sans-serif;
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+h1, h2, h3 {
+  color: #1a202c;
+}
